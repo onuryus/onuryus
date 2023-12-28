@@ -34,6 +34,9 @@ To see all the other badges are [here](https://www.credly.com/users/haci-aslan-o
 <!--START_SECTION:badges-->
 [![Git and GitHub Essentials](https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)](https://www.credly.com/badges/289b04f8-4b80-49fd-a6f2-8187c9e63101/public_url "Git and GitHub Essentials")
 
+
+[![Data Science Methodology](https://images.credly.com/size/680x680/images/46defa53-a922-47bd-94ea-b43488f5cd8a/Data_Science_Methodology_Foundational.png)](https://www.credly.com/badges/1ca30a59-cbe3-4360-8639-a23b7f0efc98/public_url "Data Science Methodology")
+
 <!--END_SECTION:badges-->
 
 
