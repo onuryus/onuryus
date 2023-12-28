@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: 
         with:
           BADGE_SIZE: 100
           NUMBER_LAST_BADGES: 24
