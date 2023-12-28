@@ -27,7 +27,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-
-[![Git and GitHub Essentials](https://images.credly.com/size/680x680/images/23859131-d0ff-4f44-900f-bac86165b941/image.png)](https://www.credly.com/badges/289b04f8-4b80-49fd-a6f2-8187c9e63101/public_url "Git and GitHub Essentials")
-
-
