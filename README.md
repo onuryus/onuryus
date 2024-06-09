@@ -15,20 +15,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89
+## MyBadges
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
-
-![Static Badge] https://img.shields.io/badge/demo--batch--red
-
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
 
 
