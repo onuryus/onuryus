@@ -15,35 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<table>
-  <tr>
-    <td style="vertical-align: top;">
-
-      <h3>Languages</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,bash,mysql&theme=dark">
-      </a>
-
-      <h3>Libraries</h3>
-      <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
-      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-
-    </td>
-    <td style="vertical-align: top;">
-
-      <h3>Tools & Technologies I Use</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,debian,docker,git,github,latex,matlab,notion,vscode&theme=dark">
-      </a>
-
-    </td>
-  </tr>
-</table>
-
-
+<
 
 
 
@@ -64,7 +36,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-## Languages and Tools
+## Languages 
 
 <table>
   <tr>
