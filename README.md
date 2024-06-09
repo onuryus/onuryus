@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89
 ## MyBadges
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
   <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
