@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 **onuryus/onuryus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,12 @@ Here are some ideas to get you started:
 
 <
 
-## Languages
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-## libraries
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### libraries
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-## Tools & Technologies I Use
+### Tools & Technologies I Use
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -40,39 +41,16 @@ Here are some ideas to get you started:
 
 
 
-## DENEME  
 
 
 
 
-
-
-## libraries
-sklearn
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-
-
-
-
-
-
-## Languages
-[![Languages](https://skillicons.dev/icons?i=py,bash,mysql&theme=dark)](https://skillicons.dev)
-
-
-## Tools & Technologies I Use
-[![tools](https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,debian,docker,git,github,latex,matlab,notion,vscode&theme=dark)](https://skillicons.dev)
-
+## MyBadges
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
 
 To see all the other badges are [here](https://www.credly.com/users/haci-aslan-onur-iscil/badges)
 
-## MyBadges
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
   <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
