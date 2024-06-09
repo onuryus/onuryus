@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## libraries
+sklearn
 
-[![Languages](https://skillicons.dev/icons?i=py,bash,mysql,figma&theme=dark)](https://skillicons.dev)
+## Languages
+[![Languages](https://skillicons.dev/icons?i=py,bash,mysql&theme=dark)](https://skillicons.dev)
 
+
+## Tools & Technologies I Use
+[![tools](https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,debian,docker,git,github,latex,matlab,notion,vscode&theme=dark)](https://skillicons.dev)
 
 
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
