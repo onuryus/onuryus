@@ -15,32 +15,55 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89
+
+
 ## MyBadges
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
   <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+<a href="https://www.credly.com/earner/earned/badge/795d1962-ac24-4b8e-a1ae-0ef73f6e03b8" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analysis_with_Python.png" alt="Data_Analysis_with_Python.png">
 
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
-
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
-
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
-
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+<a href="https://www.credly.com/earner/earned/badge/edf831b1-4abe-439e-8880-25765c2a71a5" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Engineering_Essentials.png" alt="Data_Engineering_Essentials.png">
 
 
-<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+<a href="https://www.credly.com/earner/earned/badge/1ca30a59-cbe3-4360-8639-a23b7f0efc98" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Science_Methodology.png" alt="Data_Science_Methodology.png">
+
+
+
+
+
+
+
+
+
 
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
-  <img width=200 height=200 src="Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+<a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
+  <img width=200 height=200 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
+
+
+
 
 
 
