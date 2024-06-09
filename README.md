@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 
 
-## MyBadges
+## MyBadges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 
 My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 <h2> My Last badges <img src = "https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50"> </h2>
