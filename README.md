@@ -6,6 +6,9 @@ Hello, on this profile, you can find information on two different areas. First, 
 Second, projects I have undertaken as part of my master's studies and thesis, which include ✨ **molecular dynamics simulations**, **protein dynamics**, and **drug discovery**✨. 
 <
 
+![Pyomo](https://img.shields.io/badge/Pyomo-00A3E0?style=for-the-badge&logo=pyomo&logoColor=white)
+
+
 ### Languages and Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
