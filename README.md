@@ -20,6 +20,7 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Pyomo](https://img.shields.io/badge/Pyomo-00A3E0?style=for-the-badge&logo=python&logoColor=white)
+![Pyomo](https://img.shields.io/badge/Pyomo-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png&logoColor=white&color=white)
 
 
 ### Tools & Technologies I Use
