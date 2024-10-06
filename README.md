@@ -19,8 +19,17 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Pyomo](https://img.shields.io/badge/Pyomo-00A3E0?style=for-the-badge&logo=python&logoColor=white)
-![Pyomo](https://img.shields.io/badge/Pyomo-000000?style=for-the-badge&logo=https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png&logoColor=white&color=white)
+
+
+<div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" style="margin-left: 5px;"/>
+    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" style="margin-left: 5px;"/>
+    <div style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; background-color: white; vertical-align: middle; margin-left: 5px;">
+        <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 40px; vertical-align: middle;"/>
+        <span style="color: black; font-weight: bold; margin-left: 5px;">Pyomo</span>
+    </div>
+</div>
 
 
 ### Tools & Technologies I Use
