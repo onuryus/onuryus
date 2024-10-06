@@ -19,15 +19,6 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-<div style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; background-color: white; vertical-align: middle;">
-    <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 40px; vertical-align: middle;"/>
-    <span style="color: black; font-weight: bold; margin-left: 5px;">Pyomo</span>
-</div>
-<img src="https://img.shields.io/badge/NetworkX-%23FFBB33.svg?style=for-the-badge&logo=networkx&logoColor=black" alt="NetworkX" style="margin-right: 5px;"/>
-
-<img src="badge_fig/networkx.jpg" alt="Açıklayıcı Metin" />
-
-
 <div style="display: flex; justify-content: center;">
     <img src="badge_fig/networkx.jpg" alt="NetworkX Badge" style="width: 100px; height: auto; margin-right: 10px;" />
     <img src="badge_fig/PyomoNewBlueDense.png" alt="Pyomo Badge" style="width: 100px; height: auto;" />
