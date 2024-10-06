@@ -28,6 +28,12 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 <img src="badge_fig/networkx.jpg" alt="Açıklayıcı Metin" />
 
 
+<div style="display: flex; justify-content: center;">
+    <img src="badge_fig/networkx.jpg" alt="NetworkX Badge" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img src="badge_fig/PyomoNewBlueDense.png" alt="Pyomo Badge" style="width: 100px; height: auto;" />
+</div>
+
+
 
 ### Tools & Technologies I Use
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
