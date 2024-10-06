@@ -23,11 +23,7 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
     <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 40px; vertical-align: middle;"/>
     <span style="color: black; font-weight: bold; margin-left: 5px;">Pyomo</span>
 </div>
-
-<div style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; background-color: white; vertical-align: middle; margin-left: 10px;">
-    <img src="https://github.com/onuryus/onuryus/blob/main/badge_fig/networkx.jpg" alt="NetworkX Logo" style="height: 40px; vertical-align: middle;"/>
-    <span style="color: black; font-weight: bold; margin-left: 5px;">NetworkX</span>
-</div>
+<img src="https://img.shields.io/badge/NetworkX-%23FFBB33.svg?style=for-the-badge&logo=networkx&logoColor=black" alt="NetworkX" style="margin-right: 5px;"/>
 
 
 
