@@ -33,6 +33,10 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 [![tools](https://skillicons.dev/icons?i=anaconda,debian,git,github,latex,matlab,notion,vscode&theme=dark)](https://skillicons.dev)
 
+<a href="https://www.pyomo.org/">
+    <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 50px; vertical-align: middle;"/>
+    <span style="background-color: white; color: black; padding: 5px; border-radius: 5px; font-weight: bold;">Pyomo</span>
+</a>
 
 
 
