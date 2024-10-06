@@ -25,6 +25,8 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 </div>
 <img src="https://img.shields.io/badge/NetworkX-%23FFBB33.svg?style=for-the-badge&logo=networkx&logoColor=black" alt="NetworkX" style="margin-right: 5px;"/>
 
+<img src="badge_fig/networxkx.jpg" alt="Açıklayıcı Metin" />
+
 
 
 ### Tools & Technologies I Use
