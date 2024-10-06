@@ -37,6 +37,10 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
     <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 50px; vertical-align: middle;"/>
     <span style="background-color: white; color: black; padding: 5px; border-radius: 5px; font-weight: bold;">Pyomo</span>
 </a>
+<div style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; background-color: white; vertical-align: middle;">
+    <img src="https://raw.githubusercontent.com/onuryus/onuryus/main/badge_fig/PyomoParrot.png" alt="Pyomo Logo" style="height: 40px; vertical-align: middle;"/>
+    <span style="color: black; font-weight: bold; margin-left: 5px;">Pyomo</span>
+</div>
 
 
 
