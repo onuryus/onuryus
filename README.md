@@ -24,6 +24,11 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
     <span style="color: black; font-weight: bold; margin-left: 5px;">Pyomo</span>
 </div>
 
+<div style="display: inline-block; border: 1px solid #000; border-radius: 5px; padding: 5px; background-color: white; vertical-align: middle; margin-left: 10px;">
+    <img src="https://github.com/onuryus/onuryus/blob/main/badge_fig/networkx.jpg" alt="NetworkX Logo" style="height: 40px; vertical-align: middle;"/>
+    <span style="color: black; font-weight: bold; margin-left: 5px;">NetworkX</span>
+</div>
+
 
 
 ### Tools & Technologies I Use
