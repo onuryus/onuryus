@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Hello, on this profile, you can find information on two different areas. First, projects I have worked on in my professional career, particularly in the realm of ✨ **data science** and **data analysis**✨. 
+Hello, on this profile, you can find information on two different areas. First, projects I have worked on in my professional career, particularly in the realm of ✨ **cheminformatics** & **Bioinformatics ** & **data science** & **data analysis**✨. 
 
 Second, projects I have undertaken as part of my master's studies and thesis, which include ✨ **molecular dynamics simulations**, **protein dynamics**, and **drug discovery**✨. 
 <
