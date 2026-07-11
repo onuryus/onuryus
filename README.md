@@ -57,7 +57,6 @@ To see all the other badges are [here](https://www.credly.com/users/haci-aslan-o
   <img width=150 height=150 src="badge_fig/Deep-Learning-using-TensorFlow.png" alt="Deep-Learning-using-TensorFlow.png">
 </a>
 
-Deep-Learning-using-TensorFlow.png
 
 
 <a href="https://www.credly.com/badges/8d90a79b-acc2-4233-93c2-64543a6a5594" target="_blank">
@@ -87,4 +86,4 @@ Deep-Learning-using-TensorFlow.png
 
 
 
-
+<table> <tr> <td align="center" width="33%"> <a href="https://www.credly.com/badges/a0c5442f-b450-4754-81d2-5994d4827479"> <img src="badge_fig/DataScience.png" alt="Data Science Badge" width="150" height="150" > </a> <br> <strong>Data Science</strong> <br> <sub>165 Hours · 12 Courses</sub> </td> <td align="center" width="33%"> <a href="https://www.credly.com/badges/44349b09-d924-4a78-adef-cb5d2e14a6d9"> <img src="badge_fig/Deep-Learning-using-TensorFlow.png" alt="Deep Learning Using TensorFlow Badge" width="150" height="150" > </a> <br> <strong>Deep Learning Using TensorFlow</strong> </td> <td align="center" width="33%"> <a href="https://www.credly.com/badges/8d90a79b-acc2-4233-93c2-64543a6a5594"> <img src="badge_fig/AcceleratedDeepLearningwithGPU.png" alt="Accelerated Deep Learning with GPU Badge" width="150" height="150" > </a> <br> <strong>Accelerated Deep Learning with GPU</strong> </td> </tr> <tr> <td align="center" width="33%"> <a href="https://www.credly.com/badges/9b5f5c37-1e3c-49c6-abc7-c5bd0b5dae25"> <img src="badge_fig/DockerEssentialsADeveloperIntroduction.png" alt="Docker Essentials Badge" width="150" height="150" > </a> <br> <strong>Docker Essentials</strong> </td> <td align="center" width="33%"> <a href="https://www.credly.com/badges/021945a6-9c0b-41fa-bd0a-86422f7b5ba3"> <img src="badge_fig/RforDataScience.png" alt="R for Data Science Badge" width="150" height="150" > </a> <br> <strong>R for Data Science</strong> </td> <td align="center" width="33%"> <a href="https://www.credly.com/users/haci-aslan-onur-iscil/badges"> <img src="badge_fig/HadoopFoundations.png" alt="Hadoop Foundations Badge" width="150" height="150" > </a> <br> <strong>Hadoop Foundations</strong> </td> </tr> </table>
