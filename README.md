@@ -48,59 +48,59 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 julia_qm.jpg
 
 bscs-logo.svg
-
-
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="75"> Featured Projects
 
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://github.com/onuryus/JuliaQM">
-        <img src="julia_qm.jpg" alt="JuliaQM Logo" width="420">
+        <img src="julia_qm.jpg" alt="JuliaQM Logo" width="380">
       </a>
       <br><br>
       <h3>
         <a href="https://github.com/onuryus/JuliaQM">JuliaQM</a>
       </h3>
       <p>
-        A quantum chemistry engine written from scratch in pure Julia, supporting
-        Hartree–Fock, DFT, MP2, and CCSD(T), together with geometry optimization,
+        A quantum chemistry engine written from scratch in pure Julia,
+        supporting electronic structure calculations, geometry optimization,
         molecular properties, and vibrational analysis.
       </p>
       <p>
-        <sub><strong>Julia · Quantum Chemistry · Automatic Differentiation · Electronic Structure</strong></sub>
+        <sub>
+          <strong>Julia · Quantum Chemistry · Electronic Structure</strong>
+        </sub>
       </p>
       <a href="https://github.com/onuryus/JuliaQM">
-        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View JuliaQM Repository">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+             alt="View JuliaQM Repository">
       </a>
     </td>
 
-```
-<td align="center" width="50%" valign="top">
-  <a href="https://github.com/onuryus/BSCS">
-    <img src="bscs-logo.svg" alt="BSCS Logo" width="420">
-  </a>
-  <br><br>
-  <h3>
-    <a href="https://github.com/onuryus/BSCS">BSCS</a>
-  </h3>
-  <p>
-    A high-performance chemical similarity search engine designed for
-    million- to billion-scale molecular libraries using Morgan fingerprints,
-    FAISS IVFPQ indexing, and exact chemical similarity reranking.
-  </p>
-  <p>
-    <sub><strong>C++ · RDKit · FAISS · Cheminformatics · Billion-Scale Search</strong></sub>
-  </p>
-  <a href="https://github.com/onuryus/BSCS">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View BSCS Repository">
-  </a>
-</td>
-```
-
+    <td align="center" width="50%" valign="top">
+      <a href="https://github.com/onuryus/BSCS">
+        <img src="bscs-logo.svg" alt="BSCS Logo" width="380">
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://github.com/onuryus/BSCS">BSCS</a>
+      </h3>
+      <p>
+        A high-performance chemical similarity search engine designed for
+        million- to billion-scale molecular libraries using molecular
+        fingerprints, FAISS indexing, and exact similarity reranking.
+      </p>
+      <p>
+        <sub>
+          <strong>C++ · RDKit · FAISS · Cheminformatics</strong>
+        </sub>
+      </p>
+      <a href="https://github.com/onuryus/BSCS">
+        <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+             alt="View BSCS Repository">
+      </a>
+    </td>
   </tr>
 </table>
-
 
 
 
