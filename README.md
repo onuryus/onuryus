@@ -41,6 +41,14 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 
 
+
+## MyBadges <img src="https://i.gifer.com/embedded/download/9d4e.gif" width="50">
+
+To see all the other badges are [here](https://www.credly.com/users/haci-aslan-onur-iscil/badges)
+
+
+
+
 ## MyBadges <img src="https://media.giphy.com/media/3orifgYbnsq43eFsdO/giphy.gif" width="50">
 
 To see all the other badges are [here](https://www.credly.com/users/haci-aslan-onur-iscil/badges)
