@@ -42,7 +42,7 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 
 
-## MyBadges <img src="https://i.gifer.com/embedded/download/9d4e.gif" width="50">
+## MyBadges <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="50">
 
 To see all the other badges are [here](https://www.credly.com/users/haci-aslan-onur-iscil/badges)
 
