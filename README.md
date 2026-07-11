@@ -45,6 +45,12 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 To see all the other badges are [here](https://www.credly.com/users/haci-aslan-onur-iscil/badges)
 
+
+<a href="https://www.credly.com/badges/a0c5442f-b450-4754-81d2-5994d4827479" target="_blank">
+  <img width=150 height=150 src="badge_fig/DataScience.png" alt="DataScience.png">
+</a>
+165 Hours- 12 Courses
+
 <a href="https://www.credly.com/earner/earned/badge/3aa79de5-7ff3-4c59-9dc8-b30cb9094d89" target="_blank">
   <img width=150 height=150 src="badge_fig/Data_Analytics_Essentials.png" alt="Data_Analytics_Essentials.png">
 </a>
