@@ -54,7 +54,7 @@ bscs-logo.svg
 
 <p align="center">
   <a href="https://github.com/onuryus/BSCS">
-    <img src="./bscs-logo.svg" alt="BSCS Logo" width="700">
+    <img src="badged_fig/bscs-logo.svg" alt="BSCS Logo" width="700">
   </a>
 </p>
 
@@ -85,7 +85,7 @@ bscs-logo.svg
 
 <p align="center">
   <a href="https://github.com/onuryus/JuliaQM">
-    <img src="./julia_qm.jpg" alt="JuliaQM Logo" width="700">
+    <img src="badge_fig/julia_qm.jpg" alt="JuliaQM Logo" width="700">
   </a>
 </p>
 
