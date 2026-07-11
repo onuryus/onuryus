@@ -54,7 +54,7 @@ bscs-logo.svg
 
 <p align="center">
   <a href="https://github.com/onuryus/BSCS">
-    <img src="badged_fig/bscs-logo.png" alt="BSCS Logo" width="700">
+    <img src="badge_fig/bscs-logo.png" alt="BSCS Logo" width="700">
   </a>
 </p>
 
