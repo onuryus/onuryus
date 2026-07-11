@@ -45,10 +45,6 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="100"> Featured projects <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="100">
 
 
-julia_qm.jpg
-
-bscs-logo.svg
-
 
 ## Featured Projects
 
