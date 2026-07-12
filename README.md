@@ -110,6 +110,101 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 
 
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/onuryus/BSCS">
+        <img src="badge_fig/bscs-logo.png" alt="BSCS Logo" width="100%">
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://github.com/onuryus/BSCS">
+          BSCS
+        </a>
+      </h3>
+      <strong>Billion-Scale Chemical Similarity Search</strong>
+      <br><br>
+      A high-performance chemical similarity search engine designed for
+      million- to billion-scale molecular libraries using molecular fingerprints,
+      FAISS indexing, and exact similarity reranking.
+      <br><br>
+      <strong>C++ · RDKit · FAISS · Cheminformatics</strong>
+      <br><br>
+      <a href="https://github.com/onuryus/BSCS">
+        <img src="https://img.shields.io/badge/View_BSCS-181717?style=for-the-badge&logo=github&logoColor=white"
+             alt="View BSCS Repository">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/onuryus/JuliaQM">
+        <img src="badge_fig/julia_qm.jpg" alt="JuliaQM Logo" width="100%">
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://github.com/onuryus/JuliaQM">
+          JuliaQM
+        </a>
+      </h3>
+      <strong>Quantum Chemistry Engine in Pure Julia</strong>
+      <br><br>
+      A quantum chemistry engine written from scratch in pure Julia, supporting
+      electronic structure calculations, geometry optimization, molecular
+      properties, and vibrational analysis.
+      <br><br>
+      <strong>Julia · Quantum Chemistry · Electronic Structure</strong>
+      <br><br>
+      <a href="https://github.com/onuryus/JuliaQM">
+        <img src="https://img.shields.io/badge/View_JuliaQM-181717?style=for-the-badge&logo=github&logoColor=white"
+             alt="View JuliaQM Repository">
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/onuryus/poseqm">
+        <img src="badge_fig/poseqm-logo-light.png" alt="PoseQM Logo" width="100%">
+      </a>
+      <br><br>
+      <h3>
+        <a href="https://github.com/onuryus/poseqm">
+          PoseQM
+        </a>
+      </h3>
+      <strong>Quantum-Mechanical Binding Pose Evaluation</strong>
+      <br><br>
+      A computational chemistry toolkit for evaluating, refining, and ranking
+      molecular binding poses using quantum-mechanical calculations and
+      structure-based analysis.
+      <br><br>
+      <strong>Quantum Chemistry · Docking · Pose Refinement</strong>
+      <br><br>
+      <a href="https://github.com/onuryus/poseqm">
+        <img src="https://img.shields.io/badge/View_PoseQM-181717?style=for-the-badge&logo=github&logoColor=white"
+             alt="View PoseQM Repository">
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <br><br><br>
+      <h2>🧪</h2>
+      <h3>Antioxidant Screening Engine</h3>
+      <strong>Coming Soon</strong>
+      <br><br>
+      A new computational platform for large-scale antioxidant screening,
+      thermodynamic descriptor analysis, and mechanism-based molecular
+      evaluation is currently under development.
+      <br><br>
+      <strong>Quantum Chemistry · Molecular Screening · Machine Learning</strong>
+      <br><br>
+      <img src="https://img.shields.io/badge/Currently-Under_Development-6C757D?style=for-the-badge"
+           alt="Currently Under Development">
+    </td>
+  </tr>
+</table>
+
+
 
 
 ### MD (Molecular Dynamics) & QM (Quantum Mechanics) Tools
