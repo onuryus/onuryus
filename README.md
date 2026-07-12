@@ -80,7 +80,7 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 <p align="center">
   <a href="https://github.com/onuryus/poseqm">
-    <img src="badge_fig/poseqm.png" alt="PoseQM Logo" width="700">
+    <img src="badge_fig/poseqm-logo-light.png" alt="PoseQM Logo" width="700">
   </a>
 </p>
 
