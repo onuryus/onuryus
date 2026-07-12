@@ -76,6 +76,37 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 
 
 
+<br>
+
+<p align="center">
+  <a href="https://github.com/onuryus/poseqm">
+    <img src="badge_fig/poseqm.png" alt="PoseQM Logo" width="700">
+  </a>
+</p>
+
+<h3 align="center">
+  <a href="https://github.com/onuryus/poseqm">
+    PoseQM
+  </a>
+</h3>
+
+<p align="center">
+  A computational chemistry toolkit for evaluating, refining, and ranking
+  molecular binding poses using quantum-mechanical calculations and
+  structure-based analysis.
+</p>
+
+<p align="center">
+  <strong>Quantum Chemistry · Molecular Docking · Pose Refinement · Drug Discovery</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/onuryus/poseqm">
+    <img src="https://img.shields.io/badge/View_PoseQM-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="View PoseQM Repository">
+  </a>
+</p>
+
 
 
 
