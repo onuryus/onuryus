@@ -7,6 +7,17 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 <
 
 
+### MD (Molecular Dynamics) & QM (Quantum Mechanics) Tools
+<div style="display: flex; justify-content: center;">
+    <img src="badge_fig/amber.png" alt="Amber" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img src="badge_fig/gromca.png" alt="Gromacs Badge" style="width: 100px; height: auto;" />
+    <img src="badge_fig/open_mm.png" alt="OpenMM" style="width: 100px; height: auto;" />
+    <img src="badge_fig/orca_name.jpg" alt="Orca" style="width: 100px; height: auto;" />
+    <img src="badge_fig/psi4square.png" alt="Psi4" style="width: 100px; height: auto;" /> 
+</div>
+
+
+
 
 ### Languages and Libraries
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
