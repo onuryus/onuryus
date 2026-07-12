@@ -7,51 +7,6 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
 <
 
 
-### MD (Molecular Dynamics) & QM (Quantum Mechanics) Tools
-<div style="display: flex; justify-content: center;">
-    <img src="badge_fig/amber.png" alt="Amber" style="width: 100px; height: auto; margin-right: 10px;" />
-    <img src="badge_fig/gromca.png" alt="Gromacs Badge" style="width: 100px; height: auto;" />
-    <img src="badge_fig/open_mm.png" alt="OpenMM" style="width: 100px; height: auto;" />
-    <img src="badge_fig/orca_name.jpg" alt="Orca" style="width: 100px; height: auto;" />
-    <img src="badge_fig/psi4square.png" alt="Psi4" style="width: 100px; height: auto;" /> 
-</div>
-
-
-
-
-### Languages and Libraries
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-<div style="display: flex; justify-content: center;">
-    <img src="badge_fig/networkx.jpg" alt="NetworkX Badge" style="width: 100px; height: auto; margin-right: 10px;" />
-    <img src="badge_fig/PyomoNewBlueDense.png" alt="Pyomo Badge" style="width: 100px; height: auto;" />
-</div>
-
-
-
-### Tools & Technologies I Use
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-[![tools](https://skillicons.dev/icons?i=anaconda,debian,git,github,latex,matlab,notion,vscode&theme=dark)](https://skillicons.dev)
-
-
-
-
-
-
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="100"> Featured projects <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2s5MnJ5ZTZvYmxjZ2l0bnYzazRvOG5vOXBncTRodm9mYWVwdW9lciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqDeI2yjpSRgdh35oe/giphy.gif" width="100">
 
@@ -118,6 +73,56 @@ Second, projects I have undertaken as part of my master's studies and thesis, wh
          alt="View JuliaQM Repository">
   </a>
 </p>
+
+
+
+
+
+
+
+
+### MD (Molecular Dynamics) & QM (Quantum Mechanics) Tools
+<div style="display: flex; justify-content: center;">
+    <img src="badge_fig/amber.png" alt="Amber" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img src="badge_fig/gromca.png" alt="Gromacs Badge" style="width: 100px; height: auto;" />
+    <img src="badge_fig/open_mm.png" alt="OpenMM" style="width: 100px; height: auto;" />
+    <img src="badge_fig/orca_name.jpg" alt="Orca" style="width: 100px; height: auto;" />
+    <img src="badge_fig/psi4square.png" alt="Psi4" style="width: 100px; height: auto;" /> 
+</div>
+
+
+
+
+### Languages and Libraries
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+<div style="display: flex; justify-content: center;">
+    <img src="badge_fig/networkx.jpg" alt="NetworkX Badge" style="width: 100px; height: auto; margin-right: 10px;" />
+    <img src="badge_fig/PyomoNewBlueDense.png" alt="Pyomo Badge" style="width: 100px; height: auto;" />
+</div>
+
+
+
+### Tools & Technologies I Use
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![tools](https://skillicons.dev/icons?i=anaconda,debian,git,github,latex,matlab,notion,vscode&theme=dark)](https://skillicons.dev)
+
+
+
 
 
 
